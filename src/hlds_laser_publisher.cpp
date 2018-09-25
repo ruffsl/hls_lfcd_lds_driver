@@ -147,7 +147,7 @@ int main(int argc, char **argv)
   int baud_rate;
 
   port = "/dev/ttyUSB0";
-  frame_id = "laser";
+  frame_id = "base_scan";
   baud_rate = 230400;
 
   try
